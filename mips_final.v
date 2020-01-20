@@ -1,10 +1,10 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Brigham Young University
+// Engineer: Joan Magalhaes
 // 
 // Create Date: 04/03/2018 05:46:26 PM
-// Design Name: 
+// Design Name: MIPS Processor
 // Module Name: mips_final
 // Project Name: 
 // Target Devices: 
